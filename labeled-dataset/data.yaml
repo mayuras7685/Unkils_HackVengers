@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['Cheetha', 'Lion', 'WOLF', 'Wild-animals', 'fox', 'hyena', 'tiger']
+
+roboflow:
+  workspace: project
+  project: wild-animal-detection-zdn1e
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project/wild-animal-detection-zdn1e/dataset/1
