@@ -66,12 +66,12 @@ I know you, curious about accurecy Here's Accurecy
 * We will implement this model in all the villages around the jungle areas. The highways pass threw jungle areas and in the jungles.
 
 
+### Our PPT
+https://www.canva.com/design/DAFb-CMDmQE/FbRkcPEgHkUIxEC7q8nwmA/view?utm_content=DAFb-CMDmQE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+### Our Custome Model ready to test 
+https://detect.roboflow.com/?model=wild-animal-detection-zdn1e&version=1&api_key=I4WpIfAHDLSmqWdR8hU6
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- ACKNOWLEDGEMENTS -->
